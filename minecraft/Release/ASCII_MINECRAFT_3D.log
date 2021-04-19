@@ -1,0 +1,63 @@
+﻿C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\MSBuild\Microsoft\VC\v160\Microsoft.CppBuild.targets(519,5): warning MSB8028: The intermediate directory (Release\) contains files shared from another project (ASCII_MINECRAFT_3D.vcxproj).  This can lead to incorrect clean and rebuild behavior.
+  minecraft.cpp
+C:\Users\afluder\Desktop\ASCII_MINECRAFT_3D\ASCII_MINECRAFT_3D\mat.h(42,12): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\afluder\Desktop\ASCII_MINECRAFT_3D\ASCII_MINECRAFT_3D\mat.h(43,12): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\afluder\Desktop\ASCII_MINECRAFT_3D\ASCII_MINECRAFT_3D\mat.h(44,12): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\afluder\Desktop\ASCII_MINECRAFT_3D\ASCII_MINECRAFT_3D\mat.h(45,13): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\afluder\Desktop\ASCII_MINECRAFT_3D\ASCII_MINECRAFT_3D\mat.h(53,12): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\afluder\Desktop\ASCII_MINECRAFT_3D\ASCII_MINECRAFT_3D\mat.h(54,12): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\afluder\Desktop\ASCII_MINECRAFT_3D\ASCII_MINECRAFT_3D\mat.h(56,12): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\afluder\Desktop\ASCII_MINECRAFT_3D\ASCII_MINECRAFT_3D\mat.h(57,13): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\afluder\Desktop\ASCII_MINECRAFT_3D\ASCII_MINECRAFT_3D\mat.h(69,54): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\afluder\Desktop\ASCII_MINECRAFT_3D\ASCII_MINECRAFT_3D\math.h(128,13): warning C4244: 'return': conversion from 'double' to 'float', possible loss of data
+C:\Users\afluder\Desktop\ASCII_MINECRAFT_3D\ASCII_MINECRAFT_3D\math.h(132,13): warning C4244: 'return': conversion from 'double' to 'float', possible loss of data
+C:\Users\afluder\Desktop\ASCII_MINECRAFT_3D\ASCII_MINECRAFT_3D\math.h(136,25): warning C4244: 'return': conversion from 'double' to 'float', possible loss of data
+C:\Users\afluder\Desktop\ASCII_MINECRAFT_3D\ASCII_MINECRAFT_3D\math.h(140,25): warning C4244: 'return': conversion from 'double' to 'float', possible loss of data
+C:\Users\afluder\Desktop\ASCII_MINECRAFT_3D\ASCII_MINECRAFT_3D\math.h(183,35): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\afluder\Desktop\ASCII_MINECRAFT_3D\ASCII_MINECRAFT_3D\math.h(184,35): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\afluder\Desktop\ASCII_MINECRAFT_3D\ASCII_MINECRAFT_3D\math.h(198,35): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\afluder\Desktop\ASCII_MINECRAFT_3D\ASCII_MINECRAFT_3D\math.h(199,35): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\afluder\Desktop\ASCII_MINECRAFT_3D\ASCII_MINECRAFT_3D\math.h(213,35): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\afluder\Desktop\ASCII_MINECRAFT_3D\ASCII_MINECRAFT_3D\math.h(214,35): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\afluder\Desktop\ASCII_MINECRAFT_3D\ASCII_MINECRAFT_3D\math.h(241,58): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\afluder\Desktop\ASCII_MINECRAFT_3D\ASCII_MINECRAFT_3D\minecraft.cpp(137,16): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\afluder\Desktop\ASCII_MINECRAFT_3D\ASCII_MINECRAFT_3D\minecraft.cpp(204,12): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+C:\Users\afluder\Desktop\ASCII_MINECRAFT_3D\ASCII_MINECRAFT_3D\minecraft.cpp(207,34): warning C4244: 'argument': conversion from 'double' to 'const int', possible loss of data
+C:\Users\afluder\Desktop\ASCII_MINECRAFT_3D\ASCII_MINECRAFT_3D\minecraft.cpp(208,36): warning C4244: 'argument': conversion from 'double' to 'const int', possible loss of data
+C:\Users\afluder\Desktop\ASCII_MINECRAFT_3D\ASCII_MINECRAFT_3D\minecraft.cpp(229,23): warning C4305: '+=': truncation from 'double' to 'float'
+C:\Users\afluder\Desktop\ASCII_MINECRAFT_3D\ASCII_MINECRAFT_3D\minecraft.cpp(247,43): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\afluder\Desktop\ASCII_MINECRAFT_3D\ASCII_MINECRAFT_3D\minecraft.cpp(247,40): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\afluder\Desktop\ASCII_MINECRAFT_3D\ASCII_MINECRAFT_3D\minecraft.cpp(247,17): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\afluder\Desktop\ASCII_MINECRAFT_3D\ASCII_MINECRAFT_3D\minecraft.cpp(286,24): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\afluder\Desktop\ASCII_MINECRAFT_3D\ASCII_MINECRAFT_3D\minecraft.cpp(287,25): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\afluder\Desktop\ASCII_MINECRAFT_3D\ASCII_MINECRAFT_3D\minecraft.cpp(294,36): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\afluder\Desktop\ASCII_MINECRAFT_3D\ASCII_MINECRAFT_3D\minecraft.cpp(309,21): warning C4018: '<': signed/unsigned mismatch
+C:\Users\afluder\Desktop\ASCII_MINECRAFT_3D\ASCII_MINECRAFT_3D\minecraft.cpp(312,12): warning C4244: 'initializing': conversion from '_Ty' to 'int', possible loss of data
+          with
+          [
+              _Ty=float
+          ]
+C:\Users\afluder\Desktop\ASCII_MINECRAFT_3D\ASCII_MINECRAFT_3D\minecraft.cpp(313,12): warning C4244: 'initializing': conversion from '_Ty' to 'int', possible loss of data
+          with
+          [
+              _Ty=float
+          ]
+C:\Users\afluder\Desktop\ASCII_MINECRAFT_3D\ASCII_MINECRAFT_3D\minecraft.cpp(314,12): warning C4244: 'initializing': conversion from '_Ty' to 'int', possible loss of data
+          with
+          [
+              _Ty=float
+          ]
+C:\Users\afluder\Desktop\ASCII_MINECRAFT_3D\ASCII_MINECRAFT_3D\minecraft.cpp(315,12): warning C4244: 'initializing': conversion from '_Ty' to 'int', possible loss of data
+          with
+          [
+              _Ty=float
+          ]
+C:\Users\afluder\Desktop\ASCII_MINECRAFT_3D\ASCII_MINECRAFT_3D\minecraft.cpp(316,22): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\afluder\Desktop\ASCII_MINECRAFT_3D\ASCII_MINECRAFT_3D\minecraft.cpp(316,18): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\afluder\Desktop\ASCII_MINECRAFT_3D\ASCII_MINECRAFT_3D\minecraft.cpp(316,14): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\afluder\Desktop\ASCII_MINECRAFT_3D\ASCII_MINECRAFT_3D\minecraft.cpp(316,10): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+  Generating code
+  Previous IPDB not found, fall back to full compilation.
+  All 311 functions were compiled because no usable IPDB/IOBJ from previous compilation was found.
+  Finished generating code
+  ASCII_MINECRAFT_3D.vcxproj -> C:\Users\afluder\Desktop\ASCII_MINECRAFT_3D\Release\minecraft.exe

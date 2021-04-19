@@ -1,0 +1,62 @@
+﻿C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\MSBuild\Microsoft\VC\v160\Microsoft.CppBuild.targets(491,5): warning MSB8028: The intermediate directory (Release\) contains files shared from another project (ASCII_MINECRAFT_3D.vcxproj).  This can lead to incorrect clean and rebuild behavior.
+  minecraft.cpp
+C:\Users\Adrian - Programming\Desktop\minecraft ascii\Minecraft3DASCII-main\minecraft\mat.h(41,12): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\Adrian - Programming\Desktop\minecraft ascii\Minecraft3DASCII-main\minecraft\mat.h(42,12): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\Adrian - Programming\Desktop\minecraft ascii\Minecraft3DASCII-main\minecraft\mat.h(43,12): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\Adrian - Programming\Desktop\minecraft ascii\Minecraft3DASCII-main\minecraft\mat.h(44,13): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\Adrian - Programming\Desktop\minecraft ascii\Minecraft3DASCII-main\minecraft\mat.h(52,12): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\Adrian - Programming\Desktop\minecraft ascii\Minecraft3DASCII-main\minecraft\mat.h(53,12): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\Adrian - Programming\Desktop\minecraft ascii\Minecraft3DASCII-main\minecraft\mat.h(55,12): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\Adrian - Programming\Desktop\minecraft ascii\Minecraft3DASCII-main\minecraft\mat.h(56,13): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\Adrian - Programming\Desktop\minecraft ascii\Minecraft3DASCII-main\minecraft\mat.h(68,54): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\Adrian - Programming\Desktop\minecraft ascii\Minecraft3DASCII-main\minecraft\math.h(136,25): warning C4244: 'return': conversion from 'double' to 'float', possible loss of data
+C:\Users\Adrian - Programming\Desktop\minecraft ascii\Minecraft3DASCII-main\minecraft\math.h(140,25): warning C4244: 'return': conversion from 'double' to 'float', possible loss of data
+C:\Users\Adrian - Programming\Desktop\minecraft ascii\Minecraft3DASCII-main\minecraft\math.h(183,35): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\Adrian - Programming\Desktop\minecraft ascii\Minecraft3DASCII-main\minecraft\math.h(184,35): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\Adrian - Programming\Desktop\minecraft ascii\Minecraft3DASCII-main\minecraft\math.h(198,35): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\Adrian - Programming\Desktop\minecraft ascii\Minecraft3DASCII-main\minecraft\math.h(199,35): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\Adrian - Programming\Desktop\minecraft ascii\Minecraft3DASCII-main\minecraft\math.h(213,35): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\Adrian - Programming\Desktop\minecraft ascii\Minecraft3DASCII-main\minecraft\math.h(214,35): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\Adrian - Programming\Desktop\minecraft ascii\Minecraft3DASCII-main\minecraft\math.h(241,58): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\Adrian - Programming\Desktop\minecraft ascii\Minecraft3DASCII-main\minecraft\minecraft.cpp(137,16): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\Adrian - Programming\Desktop\minecraft ascii\Minecraft3DASCII-main\minecraft\minecraft.cpp(204,12): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+C:\Users\Adrian - Programming\Desktop\minecraft ascii\Minecraft3DASCII-main\minecraft\minecraft.cpp(207,34): warning C4244: 'argument': conversion from 'double' to 'const int', possible loss of data
+C:\Users\Adrian - Programming\Desktop\minecraft ascii\Minecraft3DASCII-main\minecraft\minecraft.cpp(208,36): warning C4244: 'argument': conversion from 'double' to 'const int', possible loss of data
+C:\Users\Adrian - Programming\Desktop\minecraft ascii\Minecraft3DASCII-main\minecraft\minecraft.cpp(229,23): warning C4305: '+=': truncation from 'double' to 'float'
+C:\Users\Adrian - Programming\Desktop\minecraft ascii\Minecraft3DASCII-main\minecraft\minecraft.cpp(247,43): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\Adrian - Programming\Desktop\minecraft ascii\Minecraft3DASCII-main\minecraft\minecraft.cpp(247,40): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\Adrian - Programming\Desktop\minecraft ascii\Minecraft3DASCII-main\minecraft\minecraft.cpp(247,17): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\Adrian - Programming\Desktop\minecraft ascii\Minecraft3DASCII-main\minecraft\minecraft.cpp(286,24): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\Adrian - Programming\Desktop\minecraft ascii\Minecraft3DASCII-main\minecraft\minecraft.cpp(287,25): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\Adrian - Programming\Desktop\minecraft ascii\Minecraft3DASCII-main\minecraft\minecraft.cpp(294,36): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\Adrian - Programming\Desktop\minecraft ascii\Minecraft3DASCII-main\minecraft\minecraft.cpp(309,21): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Adrian - Programming\Desktop\minecraft ascii\Minecraft3DASCII-main\minecraft\minecraft.cpp(312,12): warning C4244: 'initializing': conversion from '_Ty' to 'int', possible loss of data
+          with
+          [
+              _Ty=float
+          ]
+C:\Users\Adrian - Programming\Desktop\minecraft ascii\Minecraft3DASCII-main\minecraft\minecraft.cpp(313,12): warning C4244: 'initializing': conversion from '_Ty' to 'int', possible loss of data
+          with
+          [
+              _Ty=float
+          ]
+C:\Users\Adrian - Programming\Desktop\minecraft ascii\Minecraft3DASCII-main\minecraft\minecraft.cpp(314,12): warning C4244: 'initializing': conversion from '_Ty' to 'int', possible loss of data
+          with
+          [
+              _Ty=float
+          ]
+C:\Users\Adrian - Programming\Desktop\minecraft ascii\Minecraft3DASCII-main\minecraft\minecraft.cpp(315,12): warning C4244: 'initializing': conversion from '_Ty' to 'int', possible loss of data
+          with
+          [
+              _Ty=float
+          ]
+C:\Users\Adrian - Programming\Desktop\minecraft ascii\Minecraft3DASCII-main\minecraft\minecraft.cpp(316,22): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\Adrian - Programming\Desktop\minecraft ascii\Minecraft3DASCII-main\minecraft\minecraft.cpp(316,18): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\Adrian - Programming\Desktop\minecraft ascii\Minecraft3DASCII-main\minecraft\minecraft.cpp(316,14): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\Adrian - Programming\Desktop\minecraft ascii\Minecraft3DASCII-main\minecraft\minecraft.cpp(316,10): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+  Generating code
+  0 of 306 functions ( 0.0%) were compiled, the rest were copied from previous compilation.
+    0 functions were new in current compilation
+    0 functions had inline decision re-evaluated but remain unchanged
+  Finished generating code
+  minecraft.vcxproj -> C:\Users\Adrian - Programming\Desktop\minecraft ascii\Minecraft3DASCII-main\Release\minecraft.exe

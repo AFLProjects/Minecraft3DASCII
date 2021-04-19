@@ -1,0 +1,11 @@
+*.Browse.VC.opendb
+*.VC.opendb
+*.opendb
+Debug/
+ASCII_MINECRAFT_3D/Debug
+ASCII_MINECRAFT_3D/v16
+*.vcxproj
+*.vcxproj.filters
+*.filters
+*.vcxproj.user
+*.user
